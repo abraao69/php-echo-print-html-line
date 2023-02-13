@@ -1,0 +1,46 @@
+.phppot-container {
+	font-family: Arial;
+	color: #232323;
+	margin: 50px;
+}
+
+.row {
+	margin: 15px;
+}
+
+.html-table {
+	border: 1px solid #CCC;
+	width: 200px
+}
+
+.html-table th {
+    border: 1px solid #CCC;
+    padding: 10px;
+    background: #F0F0F0;
+}
+
+.html-table td {
+    border: 1px solid #CCC;
+    padding: 10px;
+}
+
+.phppot-container h3 {
+	margin-top: 30px;
+}
+
+.textarea {
+	width: 250px;
+}
+
+.textarea {
+	width: 250px;
+}
+
+.btn-submit {
+    background: #323232;
+    color: #fff;
+    padding: 8px 60px 8px 60px;
+    border-radius: 3px;
+    border: #ccc 1px #0000ff;
+    cursor: pointer;
+}
